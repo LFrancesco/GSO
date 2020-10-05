@@ -19,7 +19,7 @@ In computer science, there exist a large number of optimization problems defined
 - Python 3.6
 - Pytorch 1.4
 
-
+<br>
 Our implementation is in PyTorch. The graphs used in the experiments are included as well. 
 Since we haven't worked on integration of our code, the annotations may not be as clear and adequate as you expect. You may also find part of the code are in .py while the others are in Jupyter Notebook. And many of them may not be the exact same version of experiments in our paper since we've tried other attempts afterwards. 
 
